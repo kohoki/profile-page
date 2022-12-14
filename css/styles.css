@@ -1,0 +1,11 @@
+body {
+  margin: 0px;
+  width: 100%;
+}
+img {
+  max-inline-size: 100%;
+  block-size: auto;
+
+  object-fit: cover;
+  object-position: top center;
+}
